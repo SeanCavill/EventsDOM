@@ -1,5 +1,5 @@
 body {
-    margin : 0 auto;
+    margin: 0 auto;
     padding: 10px;
 }
 
@@ -13,28 +13,28 @@ p {
 }
 
 #here li {
-    width  : 10vw;
+    width: 10vw;
     padding: 20px;
-    border : 1px solid #000;
+    border: 1px solid #000;
 }
 
 button {
-    color        : #fff;
-    background   : green;
-    padding      : 5px;
+    color: #fff;
+    background: green;
+    padding: 5px;
     border-radius: 5px;
 }
 
 body {
-    background     : #f9f9f9;
+    background: #f9f9f9;
     background-size: cover;
-    text-align     : center;
+    text-align: center;
 }
 
 input {
     border-radius: 5px;
-    padding      : 10px;
-    margin-left  : 200px;
+    padding: 10px;
+    margin-left: 200px;
 }
 
 .testingIt {
@@ -43,8 +43,9 @@ input {
 
 .deleteButton {
     background-color: red;
-    color           : #fff;
-    border-radius   : 30px margin: 20px;
+    color: #fff;
+    border-radius: 30px;
+    margin: 20px;
 }
 
 .done {
